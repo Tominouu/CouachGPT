@@ -6,6 +6,15 @@ Ce projet a pour but de **tester, comparer et intégrer différents modèles LLM
 
 ---
 
+### SI JAMAIS IL FAUT LE LANCER PAR DOCKER
+
+- Se rendre dans le dossier couachgpt
+- `sudo docker run -d -p 8080:8080 --name couachgpt-container couachgpt`
+- Pour afficher les logs:
+- `sudo docker logs -f couachgpt-container`
+- Pour couper le container:
+- `sudo docker stop couachgpt-container`
+
 ### POUR COUPER LE SERVEUR
 
 - `pkill -f app.py`
