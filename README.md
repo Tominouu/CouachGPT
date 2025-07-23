@@ -242,12 +242,19 @@ Après tests :
 ## 🧪 Update 22 Juillet 
 
 - Ajout des notifications dans la page **collaborateurs.**
-- Possibilité d'envoyer son message en appuiyant sur la touche **Entrée** dans la page multi-utilisateurs.
+- Possibilité d'envoyer son message en appuyant sur la touche **Entrée** dans la page multi-utilisateurs.
 - Intégration de **l'IA** dans le système de conversation multi-utilisateurs.
 - Amélioration du **style** de la page multi-utilisateurs.
 - Ajout des **conversations** dans la base de données, et **affichage** côté Front.
 
-    
+---
+
+## 🧪 Update 23 Juillet 
+
+- Corrections des bugs liés à la **base de données** pour la gestions des **conversations multi-utilisateurs.**
+- Ajout de la feature **speaker**, lorsque le bouton est appuyé la **voix** se déclanche et lit le contenu que **l'IA a généré**.
+- Mise à jour du **requirements.txt**
+
 
 
 
